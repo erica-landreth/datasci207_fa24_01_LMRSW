@@ -1,0 +1,3 @@
+Sunday, November 3
+* Goal: Predict PCIAT Total --> Drop lines that have NaN values in sii
+* Histogram of all the various features vs. sii, along with correlation
