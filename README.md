@@ -6,3 +6,20 @@
 * 10% Conclusions: Summarize the key results, what has been learned, and avenues for future work.
 * 15% Code submissions: Provide link to your team's GitHub repo. The code should be well commented and organized.
 * Contributions: pecify the contributions of each author (e.g., data processing, algorithm implementation, slides, etc.). Note that the final project grade is individual, based on each member's contribution and team size.
+
+[X] Data selected
+
+Initial Data Exploration (1-2 weeks):
+[ ] EDA
+[ ] Data cleaning
+[ ] Feature selection/engineering
+[ ] Baseline model
+
+Model Design(2-3 weeks):
+[ ] Choose model architecture(s)
+[ ] Divide and conquer to test different approaches
+[ ] Hyperparameter tuning
+
+Deliverable to-do’s (1-2 weeks):
+[ ] Model evaluation (metrics, visualizations)
+[ ] Presentation Slides
